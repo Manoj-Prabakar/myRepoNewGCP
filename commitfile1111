@@ -1,0 +1,28 @@
+Project ID*
+aphmoojo-3bbf-tayr-6x95-uz4byo
+
+Agent ID*
+56adfe88-3a83-44dd-8611-4181512f4907
+
+Location*
+us-central1
+
+Service Account*
+nonprod-ccbot-gcp-skill-bh-providerbne-us-central1.json
+
+
+Secret Manager Resource ID
+admin
+
+Gemini API Key*
+•••••••••••••••••••••••••••••••••••••••
+AIzaSyBB8RjT0TaR-KShXqtGmJYg5G27Bne2K4Q
+
+
+GCS Bucket Name*
+adk-eval-bucket-automationteam-1
+
+Golden Dataset Filename*
+gs://adk-eval-bucket-automationteam-1/GroundTruth/BH2/SpecficUtteranceSB.xlsx
+Chunk Size Limit*
+10
